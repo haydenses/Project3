@@ -1,0 +1,3 @@
+The python file is pretty easy to run all you need to run the file is to install matplotlib using the commands python -m pip install -U pip ;;; python -m pip install -U matplotlib;;;
+in the terminal to install pip and matplotlib using pip. Both of these commands can be run in the terminal/command line after installing python. Also, make sure the csv file is in the
+same folder as the program file. That is all that is needed to run the program.
